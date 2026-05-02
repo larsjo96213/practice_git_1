@@ -2,3 +2,4 @@ x=1
 y=2
 z=3
 git reset --soft head~1
+z=6
